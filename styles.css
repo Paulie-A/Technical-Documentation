@@ -1,0 +1,59 @@
+
+#navbar {
+  position: fixed;
+  border-right: solid 2px black;
+  height: 100%;
+  padding: 10px;
+  padding-top: 33px;
+  font-family: lato;
+  font-size: 1.2em;
+  background-color: lightgrey;
+  overflow: auto;
+}
+
+#navbar li {
+  padding-top: 15px;
+}
+
+header {
+  font-size: 2em;
+  padding-bottom: 25px;
+  padding-top: 20px;
+}
+
+#main-doc{
+  position: absolute;
+  margin-left:325px;
+  padding-top:10px;
+  padding-left: 20px;
+  margin-bottom:60px;
+  font-family: lato;
+  font-size: 1.2em;
+}
+
+i {
+font-size: 200%;
+}
+
+code {
+  display:inline-block;
+  white-space: pre-wrap;
+  position: relative;
+  padding:15px;
+  margin:25px;
+  border-radius:5px;
+  border: solid 1px;
+}
+
+
+li {
+  padding-top: 10px;
+}
+
+p {
+  padding-top: 5px;
+}
+
+
+
+
